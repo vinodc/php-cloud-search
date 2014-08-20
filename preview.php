@@ -28,9 +28,6 @@ if (isset($_GET['id'])) {
     if ($res->getStatusCode() == 201) {
         $results = $res->json();
     }
-    else {
-        echo var_dump($res->json());
-    }
 }
 ?>
 
