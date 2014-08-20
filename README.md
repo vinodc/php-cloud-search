@@ -5,7 +5,9 @@ This is a simple app with some sample PHP code to search files in a
 
 ## Installation
 
-Performed via composer: getcomposer.org
+PHP 5.5+ is required.
+
+[Composer](http://getcomposer.org) is used for dependency management.
 
 To install composer:
 
